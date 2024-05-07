@@ -1,6 +1,6 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+n the Recipe Management project, users can register, login, and logout. They can also add recipes, save recipes, and view detailed ingredient information for each recipe. Each user has a separate profile section where they can see the recipes they've added. Authentication is implemented to ensure that recipe data can only be saved or added by logged-in users. This project utilizes React, HTML, CSS, Bootstrap, MongoDB, and Node.js.
 
 Currently, two official plugins are available:
 
